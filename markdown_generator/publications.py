@@ -47,7 +47,7 @@ publications
 html_escape_table = {
     "&": "&amp;",
     '"': "&quot;",
-    "'": "&apos;"
+    "'": "&apos;",
     "\n":"&return;"
     }
 
