@@ -2,7 +2,7 @@
 title: "Qiaoni's first paper"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Abstract.Tis djigjdfj'+'\n'+'djigjdifj'
+excerpt: 'Abstract.Tis djigjdfj&return;keyword:&return;[SSRN](https://pubsonline.informs.org/doi/abs/10.1287/mksc.2016.1004)'
 date: 2009-10-01
 venue: 'Marketing Science'
 paperurl: 'https://pubsonline.informs.org/doi/abs/10.1287/mksc.2016.1004'
