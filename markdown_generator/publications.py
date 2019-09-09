@@ -48,6 +48,7 @@ html_escape_table = {
     "&": "&amp;",
     '"': "&quot;",
     "'": "&apos;"
+    "\n":"&return;"
     }
 
 def html_escape(text):
