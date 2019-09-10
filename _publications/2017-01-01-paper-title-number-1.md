@@ -2,7 +2,7 @@
 title: "Product line bundling: Why airlines bundle high-end while hotels bundle low-end"
 collection: publications
 permalink: /publication/2017-01-01-paper-title-number-1
-excerpt: 'Abstract.Tis djigjdfj&nbsp;keyword:&nbsp;[SSRN](https://pubsonline.informs.org/doi/abs/10.1287/mksc.2016.1004)'
+excerpt: 'Abstract: This paper is about bundling.'
 date: 2017-01-01
 venue: 'Marketing Science'
 paperurl: 'https://pubsonline.informs.org/doi/abs/10.1287/mksc.2016.1004'
