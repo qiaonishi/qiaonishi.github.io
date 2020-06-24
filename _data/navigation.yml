@@ -8,12 +8,12 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Research Interest"
     url: /interest/
+    
+  - title: "Portfolio"
+    url: /portfolio/
     
   - title: "CV"
     url: /cv/
