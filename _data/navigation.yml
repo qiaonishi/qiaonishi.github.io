@@ -7,7 +7,7 @@ main:
     url: /teaching/  
     
   - title: "CV"
-    url: /files/cv_qiaoni.pdf
+    url: 'http://qiaonishi.github.io/files/cv_qiaoni.pdf'
         
   #- title: "Research Interest"
   #  url: /interest/
