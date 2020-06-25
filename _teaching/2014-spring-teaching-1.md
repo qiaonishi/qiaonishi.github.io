@@ -10,4 +10,7 @@ location: "Pittsburgh, U.S"
 
 Introduction to Marketing
 ======
-This course is about introduction to marketing.
+Spring 2020
+
+
+Instructor Evaluation: 4.75/5
