@@ -22,5 +22,5 @@ with Jeffrey Inman and Dinesh Gauri
 
 Work in Progress
 =====
-*
-*
+* "Video"
+* "Airbnb"
