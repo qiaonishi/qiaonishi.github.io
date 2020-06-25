@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 Introduction to Marketing
 =====
 University of Pittsburgh, Spring 2020
