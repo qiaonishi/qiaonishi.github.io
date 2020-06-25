@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qiaoni Shi"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Qiaoni's homepage
+I am a PhD candidate of Marketing at University of Pittsburgh, advised by . I am interestedin in ....  
