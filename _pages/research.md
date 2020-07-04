@@ -21,5 +21,10 @@ with Jeffrey Inman and Dinesh Gauri
 
 Work in Progress
 =====
-* "Video"
-* "Airbnb"
+* "Video Content Analysis to Understand Consumer Behavior", with Jeffrey Inman, Meheli Basu and 
+* "Strategies of Professional Renters on Airbnb", with Esther Gal-Or
+
+Early Publications in Computer Science
+=====
+* Yaodong Ni, Qiaoni Shi, Zhiyuan Wei, Optimizing Influence Diffusion in a Social Network with Fuzzy Costs for Targeting Nodes. _Journal of Ambient Intelligence and Humanized Computing_ (2017): 8(5), 819-826.
+* Yaodong Ni, Qiaoni Shi, Minimizing the Complete Influence Time in a Social Network with Stochastic Costs for Influencing Nodes. _International Journal of Uncertainty, Fuzziness and Knowledge-Based System_ (2013): 21(Supp1), 63-74.
