@@ -10,6 +10,7 @@ Publications
 Why airlines bundle high-end while hotels bundle low-end. _Marketing Science_ (2017): 36(1), 124-139.
 [link](https://pubsonline.informs.org/doi/10.1287/mksc.2016.1004)
 
+
 Working Papers
 =====
 * "Designing Entry Strategies for Subscription Platforms:
@@ -19,10 +20,12 @@ The Case of ClassPass and MoviePass", with Esther Gal-Or
 How Store Closures Impact Consumer Shopping Behavior", 
 with Jeffrey Inman and Dinesh Gauri
 
+
 Work in Progress
 =====
 * "Video Content Analysis to Understand Consumer Behavior", with Jeffrey Inman, Meheli Basu and 
 * "Strategies of Professional Renters on Airbnb", with Esther Gal-Or
+
 
 Early Publications in Computer Science
 =====
