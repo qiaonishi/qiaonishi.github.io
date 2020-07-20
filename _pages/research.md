@@ -18,13 +18,14 @@ The Case of ClassPass and MoviePass", with Esther Gal-Or
 (Revise and Resubmit at _Management Science_)
 * "When Walmart Leaves Town: 
 How Store Closures Impact Consumer Shopping Behavior", 
-with Jeffrey Inman and Dinesh Gauri
+with Jeffrey Inman and Dinesh Gauri (Finalizing for submission to _Journal of Marketing Research_)
 
 
 Work in Progress
 =====
 * "Video Content Analysis to Understand Consumer Behavior", with Jeffrey Inman, Meheli Basu and 
-* "Strategies of Professional Renters on Airbnb", with Esther Gal-Or
+* "Strategies of Multi-homing Individual Vendors on Platform", with Esther Gal-Or
+* "Platform Monetization and Innovation Ecosystem Inequality: a Natural Experiment on Goodreads", with Kai Zhu
 
 
 Early Publications in Computer Science
