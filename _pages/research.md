@@ -23,7 +23,7 @@ with Jeffrey Inman and Dinesh Gauri (Finalizing for submission to _Journal of Ma
 
 Work in Progress
 =====
-* "Video Content Analysis to Understand Consumer Behavior", with Jeffrey Inman, Meheli Basu and 
+* "Video Content Analysis to Understand Consumer Behavior", with Jeffrey Inman, Meheli Basu and Subhabrata Bhattacharya
 * "Strategies of Multi-homing Individual Vendors on Platform", with Esther Gal-Or
 * "Platform Monetization and Innovation Ecosystem Inequality: a Natural Experiment on Goodreads", with Kai Zhu
 
