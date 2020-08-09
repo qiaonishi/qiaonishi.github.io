@@ -16,9 +16,8 @@ Working Papers
 * "Designing Entry Strategies for Subscription Platforms:
 The Case of ClassPass and MoviePass", with Esther Gal-Or 
 (Revise and Resubmit at _Management Science_)
-* "When Walmart Leaves Town: 
-How Store Closures Impact Consumer Shopping Behavior", 
-with Jeffrey Inman and Dinesh Gauri (Finalizing for submission to _Journal of Marketing Research_)
+* "'Store Closed': How Consumers Respond to Retail Store Closures", 
+with Jeffrey Inman and Dinesh Gauri (Under review at _Journal of Marketing Research_)
 
 
 Work in Progress
