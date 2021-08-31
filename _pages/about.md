@@ -15,7 +15,7 @@ Bocconi University
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
-Prior to joing Bocconi University, I was a PhD student of Marketing at the University of Pittsburgh, advised by [Esther Gal-Or](https://www.business.pitt.edu/people/esther-gal-or) and [J. Jeffrey Inman](https://www.business.pitt.edu/people/j-jeffrey-inman). My research seeks to understand the transformative impact of digital technology and platform economy on various aspects of marketing, including business models, firm strategies, and consumer behavior. 
+Prior to joining Bocconi University, I was a PhD student of Marketing at the University of Pittsburgh, advised by [Esther Gal-Or](https://www.business.pitt.edu/people/esther-gal-or) and [J. Jeffrey Inman](https://www.business.pitt.edu/people/j-jeffrey-inman). My research seeks to understand the transformative impact of digital technology and platform economy on various aspects of marketing, including business models, firm strategies, and consumer behavior. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
-<address> Via Roentgen, 1<br /> 20136 Milano, Italy</address>
+<address> Floor 4, Via Roentgen, 1<br /> 20136 Milano, Italy</address>
