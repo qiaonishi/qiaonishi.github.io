@@ -10,8 +10,10 @@ redirect_from:
 
 Qiaoni Shi
 =====
+（施巧妮）
 Assistant Professor of Marketing
-## Bocconi University
+Bocconi University
 
 
+##
 Prior to joing Bocconi University, I was a PhD student of Marketing at the University of Pittsburgh, advised by [Esther Gal-Or](https://www.business.pitt.edu/people/esther-gal-or) and [J. Jeffrey Inman](https://www.business.pitt.edu/people/j-jeffrey-inman). My research seeks to understand the transformative impact of digital technology and platform economy on various aspects of marketing, including business models, firm strategies, and consumer behavior. 
