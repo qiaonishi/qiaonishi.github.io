@@ -17,6 +17,5 @@ Why airlines bundle high-end while hotels bundle low-end. _Marketing Science_ (2
 
 ## Work in Progress
 * "Strategies of Multi-homing Individual Vendors on Platform", with Esther Gal-Or
-* "How Click and Collect impact consumers' shopping behavior", with Jeffrey Inman and Dinesh Gauri
 * "Platform Monetization and Innovation Ecosystem Inequality: a Natural Experiment on Goodreads", with Kai Zhu and Shrabastee Banerjee
 
