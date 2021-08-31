@@ -10,7 +10,7 @@ Why airlines bundle high-end while hotels bundle low-end. _Marketing Science_ (2
 [link](https://pubsonline.informs.org/doi/10.1287/mksc.2016.1004)
 
 
-## Work in Progress
+## Research in Progress
 * "Designing Entry Strategies for Subscription Platforms" (Minor Revision at _Management Science_), with Esther Gal-Or
 * "'Store Closed': How Consumers Respond to Retail Store Closures" (Finalizing for submission), with Jeffrey Inman, Dinesh Gauri, and Aashish Pandey
 * "Strategies of Multi-homing Individual Vendors on Platform", with Esther Gal-Or
