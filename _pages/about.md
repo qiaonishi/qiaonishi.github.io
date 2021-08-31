@@ -10,7 +10,7 @@ redirect_from:
 
 Qiaoni Shi (施巧妮)
 =====
-Assistant Professor of Marketing
+Assistant Professor of Marketing<br />
 Bocconi University
 
 
