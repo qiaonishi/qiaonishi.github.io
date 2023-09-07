@@ -12,8 +12,8 @@ Why airlines bundle high-end while hotels bundle low-end. _Marketing Science_ (2
 
 
 ## Research in Progress
-* "'Store Closed': How Consumers Respond to Retail Store Closures" with Jeffrey Inman, Dinesh Gauri, and Aashish Pandey, Revised and Resubmit at _Journal of Marketing Research_
-* "Unintended Consequences of Platform Monetization on Digital Cultural Markets: Evidence from a Natural Experiment on Goodreads", with Kai Zhu and Shrabastee Banerjee, Revised and Resubmit at _Management Science_
+* "'Store Closed': How Consumers Respond to Retail Store Closures" with Jeffrey Inman, Dinesh Gauri, and Aashish Pandey, Revise and Resubmit at _Journal of Marketing Research_
+* "Unintended Consequences of Platform Monetization on Digital Cultural Markets: Evidence from a Natural Experiment on Goodreads", with Kai Zhu and Shrabastee Banerjee, Revise and Resubmit at _Management Science_
 * "Quantify Consumer-Product Mismatch: A Representation Learning Approach" with Kai Zhu and Christian Hotz-Behofsits
 * "Strategies of Multi-homing Individual Vendors on Platform", with Esther Gal-Or
 
